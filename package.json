@@ -1,5 +1,5 @@
 {
-  "name": "CLITool", 
+  "name": "@manofthemooon/CLITool", 
   "version": "1.0.0", 
   "description": "", 
   "main": "./src/index.js",
