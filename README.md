@@ -28,7 +28,7 @@ This command will create a new file with the specified name.
 your-cli-tool-command -r filename.txt
 ```
 
-This command will read and display the contents of the specified file.
+This command will read and display the contents of the specified file!
 
 ## Example
 
